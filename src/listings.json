@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Tomatoes",
+        "quantity": 50,
+        "price": 1.99,
+        "image": "https://example.com/tomatoes.jpg"
+    },
+    {
+        "name": "Apples",
+        "quantity": 30,
+        "price": 0.79,
+        "image": "https://example.com/apples.jpg"
+    },
+    {
+        "name": "Bananas",
+        "quantity": 40,
+        "price": 0.49,
+        "image": "https://example.com/bananas.jpg"
+    },
+    {
+        "name": "Carrots",
+        "quantity": 25,
+        "price": 0.89,
+        "image": "https://example.com/carrots.jpg"
+    },
+    {
+        "name": "Strawberries",
+        "quantity": 20,
+        "price": 2.49,
+        "image": "https://example.com/strawberries.jpg"
+    },
+    {
+        "name": "Spinach",
+        "quantity": 15,
+        "price": 1.29,
+        "image": "https://example.com/spinach.jpg"
+    },
+    {
+        "name": "Oranges",
+        "quantity": 35,
+        "price": 1.19,
+        "image": "https://example.com/oranges.jpg"
+    },
+    {
+        "name": "Cucumbers",
+        "quantity": 30,
+        "price": 0.99,
+        "image": "https://example.com/cucumbers.jpg"
+    },
+    {
+        "name": "Potatoes",
+        "quantity": 40,
+        "price": 1.49,
+        "image": "https://example.com/potatoes.jpg"
+    },
+    {
+        "name": "Onions",
+        "quantity": 25,
+        "price": 0.69,
+        "image": "https://example.com/onions.jpg"
+    },
+    {
+        "name": "Bell Peppers",
+        "quantity": 20,
+        "price": 1.99,
+        "image": "https://example.com/bell_peppers.jpg"
+    },
+    {
+        "name": "Lettuce",
+        "quantity": 30,
+        "price": 1.09,
+        "image": "https://example.com/lettuce.jpg"
+    },
+    {
+        "name": "Grapes",
+        "quantity": 25,
+        "price": 2.99,
+        "image": "https://example.com/grapes.jpg"
+    }
+]
